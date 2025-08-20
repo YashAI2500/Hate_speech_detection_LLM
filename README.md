@@ -25,4 +25,5 @@ I’m **Yash**, a 3rd-year B.Tech student 👨🎓 working on NLP.
 
 That’s the whole stack—**RoBERTa for detection, Gemini / GPT for explanations, Gradio for the front end**—all wrapped into an easy demo you can try in one click. 🎉
 
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/82560513/e7b757aa-4b7b-41e6-9264-6da802b14aee/Hate_speech_openAI.ipynb
+
+
